@@ -19,5 +19,3 @@ def solution2(participant, completion):
 
 p1 = ["mislav", "stanko", "mislav", "ana"]
 c1 = ["stanko", "ana", "mislav"]
-
-print(solution2(p1, c1))
